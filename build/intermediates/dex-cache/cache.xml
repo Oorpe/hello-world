@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\s300885\AndroidStudioProjects\BleExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aac7937237b032c5e1c72fbf56305e04837ca955">
+        <dex dex="C:\Users\s300885\AndroidStudioProjects\BleExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_87125c2a6bd4a6672945c038f8bd0748a7e8e3fa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\s300885\AndroidStudioProjects\BleExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4bc20798c90c1b2463493ebe4244c73611ebc929">
+        <dex dex="C:\Users\s300885\AndroidStudioProjects\BleExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e8dd2bc46199fe985dcdfe406b60754ef9f0656c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\s300885\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\s300885\AndroidStudioProjects\BleExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_16fc1103f46cf15d3bd586bae6870c48c182d8aa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\s300885\AndroidStudioProjects\BleExample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\s300885\AndroidStudioProjects\BleExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-20.0.0_3757372794887f31c46f418b4f376e7df09be197\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\s300885\AndroidStudioProjects\BleExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\s300885\AndroidStudioProjects\BleExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_27fca6a12e3a9e9d4377a8c08be7f03daf5d0812\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\s300885\AndroidStudioProjects\BleExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\s300885\AndroidStudioProjects\BleExample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_e3bd62543d23d500d2bf30efa54fb0485613f2d5\classes.dex" />
+    </item>
+
+</items>
